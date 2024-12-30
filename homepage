@@ -1,0 +1,2665 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- carillon-sponge-xhzb -->
+<base href="">
+<meta charset="utf-8" />
+<title>METAMATION - AI Driven Business Automation</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://www.metamation.net"/>
+<meta property="og:site_name" content="METAMATION SOLUTIONS"/>
+<meta property="og:title" content="METAMATION - AI Driven Business Automation"/>
+<meta property="og:url" content="https://www.metamation.net"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Streamline your business with cutting-edge automation and AI solutions. MetaMation helps businesses of all sizes optimize workflows, boost efficiency, and scale without the need for additional hiring. Discover seamless integrations and tailored workflows designed to save time and drive growth."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1730723569104/MetaMation+Trans+Logo+-+Cropped.png?format=1500w"/>
+<meta property="og:image:width" content="1241"/>
+<meta property="og:image:height" content="886"/>
+<meta itemprop="name" content="METAMATION - AI Driven Business Automation"/>
+<meta itemprop="url" content="https://www.metamation.net"/>
+<meta itemprop="description" content="Streamline your business with cutting-edge automation and AI solutions. MetaMation helps businesses of all sizes optimize workflows, boost efficiency, and scale without the need for additional hiring. Discover seamless integrations and tailored workflows designed to save time and drive growth."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1730723569104/MetaMation+Trans+Logo+-+Cropped.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1730723569104/MetaMation+Trans+Logo+-+Cropped.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1730723569104/MetaMation+Trans+Logo+-+Cropped.png?format=1500w"/>
+<meta name="twitter:title" content="METAMATION - AI Driven Business Automation"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1730723569104/MetaMation+Trans+Logo+-+Cropped.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.metamation.net"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Streamline your business with cutting-edge automation and AI solutions. MetaMation helps businesses of all sizes optimize workflows, boost efficiency, and scale without the need for additional hiring. Discover seamless integrations and tailored workflows designed to save time and drive growth."/>
+<meta name="description" content="Streamline your business with cutting-edge automation and AI solutions. 
+MetaMation helps businesses of all sizes optimize workflows, boost 
+efficiency, and scale without the need for additional hiring. Discover 
+seamless integrations and tailored workflows designed to save time and 
+drive growth." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/QhjzMqeK_qjc0Z21W_2_U5NoXoMGthxSWI266P7h2r9fec9JXnX1IyvhF2jtFRZLFRS3wAbXjQBcw2gyweJaFRbaFDyyjQ4Ke6MKfAZuiYmkjPu3ifG4fJsmIMMjgfMfH6qJ6m9bMg6YJMJ7fbKBmsMMeMt6MKG4fJ4mIMMjIPMfqMYd1JKtg6.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Raleway:wght@400">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-dddbca279c72c8b4a0f8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-dddbca279c72c8b4a0f8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6c569122bfa66a51a056-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6c569122bfa66a51a056-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-907dfe7701e90c1e5cbd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-907dfe7701e90c1e5cbd-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-61293f01d648eef165fc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-61293f01d648eef165fc-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7e83b47571ba105379d4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-7e83b47571ba105379d4-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1cf2c70adfed8a101e0b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1cf2c70adfed8a101e0b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/user-account-core-92475bfed4b2c7686a91-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/user-account-core-92475bfed4b2c7686a91-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/user-account-core-b6e8cafbf34b05da5c2b-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/user-account-core-b6e8cafbf34b05da5c2b-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-a1f04ef378c5b48fe84b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-a1f04ef378c5b48fe84b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"betaFeatureFlags":["visitor_react_forms","themes","accounting_orders_sync","nested_categories","campaigns_new_image_layout_picker","commerce_site_visitor_metrics","supports_versioned_template_assets","i18n_beta_website_locales","campaigns_thumbnail_layout","campaigns_global_uc_ab","override_block_styles","collection_typename_switching","contacts_and_campaigns_redesign","gdpr_cookie_banner","commerce_clearpay","campaigns_import_discounts","member_areas_feature","campaigns_discount_section_in_automations","new_stacked_index","enable_css_variable_tweaks","campaigns_discount_section_in_blasts","marketing_landing_page","is_feature_gate_refresh_enabled","scripts_defer"],"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-d4b60a491ecde5b97764-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-ef238f99d44a3bdc6fbe-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-59306f113f35d3f50e3c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-93d51fbe4a919163e8fd-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-10dac239e5ffd3b32e9c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-eb98a9772eef10a61680-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9e75b5d75bb5cb4c1f67-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-0555106212c61832dc1b-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-a0d9356d7c1596ab2c53-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-e836f4dfa856d84f2b35-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-3a08a59ab0d49f924e34-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-d46410282f57be3f82d7-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-2dcac307baebe70727dc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-da9aa7d67069c81c8e17-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-10dac239e5ffd3b32e9c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-46066e12a6beadb43ff2-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d65143596c1fd2db6a8c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-b952cddb94c5d471b8d3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-e6a04df1ede4c6abe0ce-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-8ab6d60c33aaa9220d48-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-fde0b4da7f2332d3851c-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-42b2471f35a458529d41-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e89b4cc96c222ed66c64-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b373e9f9fb94ec2f2f96-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-2f87c3dcb76ca485179d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-2e3fc5d747483a2b3196-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-921b8aa24f5746dfa032-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-52403235629e0d8a003b-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-917382e71b023cec7555-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-336715e1da1dc4d74c9a-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-13a7d5fe3349c6c1aa31-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-4279cc7bb78333b8db43-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-cede7154e30542cabab1-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-3a7d186e7e5e3b30911b-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-626c1bfe3e61606c3766-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-8ec841cacfb75d4282f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-3388e569034b8c9cef97-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-efd3c12d460f58781eb3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-773808c9b3d89fc7a462-min.en-US.js"}},"pageType":2,"website":{"id":"6701d4a1f00a0b764778aa2b","identifier":"carillon-sponge-xhzb","websiteType":1,"contentModifiedOn":1735315245072,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"METAMATION SOLUTIONS","fullSiteTitle":"METAMATION - AI Driven Business Automation","siteDescription":"","location":{},"logoImageId":"6728bef1c8e989794e9e2e1c","mobileLogoImageId":"674fcd9ddb923c3de3514607","shareButtonOptions":{},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/6701d4a1f00a0b764778aa2b/5518cc53-7ec8-4ca2-a2aa-b432137b75f8/MetaMation+Trans+Logo+-+Cropped.png","mobileLogoImageUrl":"//images.squarespace-cdn.com/content/v1/6701d4a1f00a0b764778aa2b/be134ce5-d675-44f2-b16d-9fa300cbd104/MetaMation+Trans+Logo.png","authenticUrl":"https://www.metamation.net","internalUrl":"https://carillon-sponge-xhzb.squarespace.com","baseUrl":"https://www.metamation.net","primaryDomain":"www.metamation.net","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1728185645777,"profileUrl":"http://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":60,"screenname":"Facebook","addedOn":1728185645786,"profileUrl":"http://facebook.com/squarespace","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1728185645778,"profileUrl":"http://twitter.com/squarespace","iconEnabled":true,"serviceName":"twitter-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"137e7dcb06f094a3b9601038fde09a114b30b696a8bec17a3fd500f63c4177f6","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"6701d4a1f00a0b764778aa2e","websiteId":"6701d4a1f00a0b764778aa2b","subjects":[],"country":"US","state":"FL","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"announcementBarSettings":{"style":1,"text":"<p>This is an announcement</p>"},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"8132057666","businessHours":{},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"USD","value":"0.00"},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":true,"signupAllowed":true}},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":true,"cookieBannerText":"<p>Select \u201CAccept all\u201D to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201DManage cookies\u201D to make more choices or opt out.</p>","cookieBannerThemeName":"bright","cookieBannerPosition":"BOTTOM","cookieBannerCtaText":"Accept all","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"Decline all","cookieBannerHasOptOut":true,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":"Manage cookies","cookieBannerSavedPreferencesText":"Cookie Preferences","cookieBannerSavedPreferencesLayout":"HIDDEN"},"websiteCloneable":false,"collection":{"title":"Home","id":"6701dd5696a15456b42c9908","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"90px","header-mobile-logo-max-height":"90px","header-vert-padding":"1.5vw","header-width":"Full","maxPageWidth":"1920px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"3","tweak-blog-basic-grid-image-aspect-ratio":"2:3 Standard (Vertical)","tweak-blog-basic-grid-image-spacing":"20px","tweak-blog-basic-grid-meta-spacing":"20px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"20px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"90","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Wide","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"20px","tweak-blog-single-column-meta-spacing":"20px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"20px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"false","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"1.0s","tweak-global-animations-animation-duration":"0.65s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Scale Up","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"35%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"2.6vw","tweak-product-basic-item-image-zoom-factor":"2","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3.00","tweak-products-gutter-column":"1.6vw","tweak-products-gutter-row":"2.6vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1.2vw","tweak-products-mobile-columns":"2.00","tweak-products-text-alignment":"Middle","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","impersonatedSession":false,"demoCollections":[{"collectionId":"5ce84744e2c4832ca73c1066","deleted":true},{"collectionId":"5ceec9f74e17b63af32452f9","deleted":true},{"collectionId":"5cf0515125733a0001fa3e7b","deleted":true},{"collectionId":"5cf0827dec50020001a58172","deleted":true}],"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/New_York","name":"Eastern Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://www.metamation.net","name":"METAMATION SOLUTIONS","description":"","image":"//images.squarespace-cdn.com/content/v1/6701d4a1f00a0b764778aa2b/5518cc53-7ec8-4ca2-a2aa-b432137b75f8/MetaMation+Trans+Logo+-+Cropped.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/6701d4a1f00a0b764778aa2b/t/6728bef1c8e989794e9e2e1c/1735315245072/","openingHours":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6701d4a1f00a0b764778aa2b/253/5c5a519771c10ba3470d8101/6701dd55b73e3722766ca632/1596/site.css"/><script data-sqs-type="cookiepreferencesgetter">(function(){window.getSquarespaceCookies = function() {    const getCookiesAllowed = function(cookieName){ return ('; '+document.cookie).split('; ' + cookieName + '=').pop().split(';')[0] === 'true'};    return {      performance: getCookiesAllowed('ss_performanceCookiesAllowed') ? 'accepted' : 'declined',      marketing: getCookiesAllowed('ss_marketingCookiesAllowed') ? 'accepted' : 'declined'    }}})()</script><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MetaMation Solutions</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px 60px;  /* Reduced top/bottom padding */
+            background-color: #fff;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            z-index: 1000;
+        }
+
+        .logo img {
+            height: 100px;  /* Adjust logo size */
+            transition: height 0.3s ease;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 40px;
+            transition: transform 0.4s ease;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #333;
+            font-size: 1rem;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: #08589a;
+        }
+
+        .hamburger {
+            display: none;
+            font-size: 2rem;
+            cursor: pointer;
+        }
+
+        .hamburger .fa-times {
+            display: none;
+        }
+
+        .hamburger.active .fa-bars {
+            display: none;
+        }
+
+        .hamburger.active .fa-times {
+            display: block;
+        }
+
+        /* Mobile Menu */
+        @media (max-width: 768px) {
+            .navbar {
+                padding: 20px 20px;  /* Minimal padding for mobile */
+            }
+
+            .logo img {
+                height: 70px;  /* Smaller on mobile for better spacing */
+            }
+
+            .hamburger {
+                display: block;
+                font-size: 2rem;
+                cursor: pointer;
+                position: absolute;
+                right: 30px;  /* Shift hamburger left */
+                top: 50%;
+                transform: translateY(-50%);
+            }
+
+            .nav-links {
+                flex-direction: column;
+                position: absolute;
+                top: 90px;
+                right: 0;
+                background-color: white;
+                width: 100%;
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+                text-align: center;
+                transform: translateY(-100%);
+                opacity: 0;
+                pointer-events: none;
+            }
+
+            .nav-links a {
+                padding: 12px 0;
+            }
+
+            .nav-links.open {
+                transform: translateY(0);
+                opacity: 1;
+                pointer-events: all;
+            }
+        }
+      
+    </style>
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <div class="logo">
+            <a href="https://www.metamation.net">
+                <img src="https://images.squarespace-cdn.com/content/6701d4a1f00a0b764778aa2b/5518cc53-7ec8-4ca2-a2aa-b432137b75f8/MetaMation+Trans+Logo+-+Cropped.png?content-type=image%2Fpng" alt="MetaMation Logo">
+            </a>
+        </div>
+        <div class="nav-links">
+            <a href="https://www.metamation.net/use-cases">Use Cases</a>
+            <a href="https://www.metamation.net/services">Services</a>
+            <a href="https://www.metamation.net/pricing">Pricing</a>
+            <a href="https://www.metamation.net/book-consultation">Book Consultation</a>
+            <a href="https://www.metamation.net/contact-us">Contact Us</a>
+            <a href="https://www.metamation.net/about-us">About Us</a>
+        </div>
+        <div class="hamburger">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-times"></i>
+        </div>
+    </nav>
+</header>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+
+        hamburger.addEventListener('click', () => {
+            navLinks.classList.toggle('open');
+            hamburger.classList.toggle('active');
+        });
+    });
+</script>
+
+</body>
+</html><meta name="seobility" content="838e977272811a1b407a3476d33b91e5"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1734634171682-RZF6JR6GWSGG409XDSTH/static.css">
+    
+  </head>
+
+  <body
+    id="collection-6701dd5696a15456b42c9908"
+    class="
+      primary-button-style-outline primary-button-shape-square secondary-button-style-outline secondary-button-shape-underline tertiary-button-style-solid tertiary-button-shape-pill form-use-theme-colors form-field-style-solid form-field-shape-custom form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-scale-up form-submit-button-style-circle header-overlay-alignment-center header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-23-standard-vertical tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-events-stacked-width-full tweak-events-stacked-height-large tweak-events-stacked-show-past-events  tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time      tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-scale-up tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-product-subscription-display-radio tweak-product-basic-item-product-subscription-border-shape-square tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-description-position-below-price tweak-product-basic-item-description-position-mobile-below-add-to-cart-button tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-product-basic-item-add-to-cart-standalone tweak-product-basic-item-add-to-cart-mobile-standalone tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-layout-default collection-6701dd5696a15456b42c9908 homepage mobile-style-available sqs-seven-one
+      
+        
+          
+            
+              
+            
+          
+        
+      
+    "
+    tabindex="-1"
+  >
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
+    >
+      
+        <div id="floatingCart" class="floating-cart hidden">
+          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+            <span class="Cart-inner">
+              
+
+
+
+  <svg class="icon icon--cart" viewBox="0 0 31 24">
+  <g class="svg-icon cart-icon--odd">
+    <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+    <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+    <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+  </g>
+</svg>
+
+              <div class="legacy-cart icon-cart-quantity">
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </span>
+          </a>
+        </div>
+      
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <main id="page" class="container" role="main">
+        
+          
+<article class="sections" id="sections" data-page-sections="6701dd5696a15456b42c990f">
+  
+  
+    
+    
+
+
+  
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white'
+  
+  data-section-id="671af11efbef337c00d6d133"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+"imageOverlayOpacity": 0.41,
+"backgroundWidth": "background-width--full-bleed",
+"sectionHeight": "section-height--custom",
+"customSectionHeight": 1,
+"horizontalAlignment": "horizontal-alignment--center",
+"verticalAlignment": "vertical-alignment--middle",
+"contentWidth": "content-width--wide",
+"customContentWidth": 50,
+"backgroundColor": "",
+"sectionTheme": "white",
+"sectionAnimation": "none",
+"backgroundMode": "image",
+"generative": {
+"type": "none",
+"seed": 0,
+"count": 0,
+"size": 0,
+"speed": 0,
+"invertColors": false,
+"noiseIntensity": 0,
+"noiseScale": 0,
+"distortionScaleX": 0,
+"distortionScaleY": 0,
+"distortionSpeed": 0,
+"distortionIntensity": 0,
+"lightIntensity": 0,
+"lightX": 0,
+"bevelRotation": 0,
+"bevelSize": 0,
+"bevelStrength": 0,
+"complexity": 0,
+"cutoff": 0,
+"isBevelEnabled": false,
+"isBlurEnabled": false,
+"scale": 0,
+"speedMorph": 0,
+"speedTravel": 0,
+"steps": 0,
+"travelDirection": 0,
+"noiseBias": 0,
+"animateNoise": false,
+"distortionComplexity": 0,
+"distortionDirection": 0,
+"distortionMorphSpeed": 0,
+"distortionSeed": 0,
+"distortionSmoothness": 0,
+"linearGradientStartColorDistance": 0,
+"linearGradientEndColorDistance": 0,
+"linearGradientAngle": 0,
+"linearGradientAngleMotion": 0,
+"linearGradientRepeat": 0,
+"radialGradientRadius": 0,
+"radialGradientPositionX": 0,
+"radialGradientPositionY": 0,
+"radialGradientFollowCursor": false,
+"radialGradientFollowSpeed": 0,
+"imageScale": 0,
+"imageCount": 0,
+"patternEnabled": false,
+"patternSize": 0,
+"patternOffsetX": 0,
+"patternOffsetY": 0,
+"patternSpaceX": 0,
+"patternSpaceY": 0,
+"waveEnabled": false,
+"waveSpeed": 0,
+"waveComplexity": 0,
+"waveDepth": 0,
+"waveShadowDepth": 0,
+"boxSize": 0.0,
+"scaleX": 0,
+"scaleY": 0,
+"scaleZ": 0,
+"isMorphEnabled": false,
+"lightY": 0,
+"lightZ": 0,
+"noiseRange": 0,
+"positionFactor": 0,
+"scaleFactor": 0,
+"colorFactor": 0,
+"sizeVariance": 0,
+"wobble": 0,
+"morph": 0,
+"scrollMovement": 0,
+"patternScaleX": 0,
+"patternScaleY": 0,
+"patternPowerX": 0,
+"patternPowerY": 0,
+"patternAmount": 0,
+"surfaceHeight": 0,
+"colorStop1": 0,
+"colorStop2": 0,
+"colorStop3": 0,
+"colorStop4": 0,
+"gradientDistortionX": 0,
+"gradientDistortionY": 0,
+"curveX": 0,
+"curveY": 0,
+"curveFunnel": 0,
+"fogIntensity": 0,
+"repeat": 0,
+"rotation": 0,
+"rotationSpeed": 0,
+"blur": 0,
+"complexityY": 0,
+"complexityZ": 0,
+"amplitudeY": 0,
+"amplitudeZ": 0,
+"offset": 0,
+"lightAngle": 0,
+"alpha": 0
+}
+}"
+  data-current-context="{
+"video": {
+"playbackSpeed": 0.5,
+"filter": 1,
+"filterStrength": 0,
+"zoom": 0,
+"videoSourceProvider": "none"
+},
+"backgroundImageId": null,
+"backgroundMediaEffect": {
+"type": "none"
+},
+"divider": {
+"enabled": false
+},
+"typeName": "page"
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 1vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-671af11ed4127375028aec6a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 0.0px;
+  column-gap: 0.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-671af11ed4127375028aec6a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-671af11ed4127375028aec6a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(26,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1729816780201_48629 {
+    grid-area: 2/2/10/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1729816780201_48629 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1729816780201_48629 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1729816780201_48629 {
+      grid-area: 3/8/5/20;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1729816780201_48629 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1729816780201_48629 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1729816780201_50507 {
+    grid-area: 10/2/14/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1729816780201_50507 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1729816780201_50507 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1729816780201_50507 {
+      grid-area: 5/9/7/19;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1729816780201_50507 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1729816780201_50507 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1734800178209_19599 {
+    grid-area: 13/3/18/9;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1734800178209_19599 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1734800178209_19599 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1734800178209_19599 {
+      grid-area: 7/12/10/16;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1734800178209_19599 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1734800178209_19599 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1729828144482_2589 {
+    grid-area: 19/2/28/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1729828144482_2589 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1729828144482_2589 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1729828144482_2589 {
+      grid-area: 11/7/26/20;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1729828144482_2589 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1729828144482_2589 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-671af11ed4127375028aec6a"><div class="fe-block fe-block-yui_3_17_2_1_1729816780201_48629"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="{"topLeft":{"unit":"px","value":0.0},"topRight":{"unit":"px","value":0.0},"bottomLeft":{"unit":"px","value":0.0},"bottomRight":{"unit":"px","value":0.0}}" id="block-yui_3_17_2_1_1729816780201_48629"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;"><strong>Automate. Integrate. Innovate.</strong></h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1729816780201_50507"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="{"topLeft":{"unit":"px","value":0.0},"topRight":{"unit":"px","value":0.0},"bottomLeft":{"unit":"px","value":0.0},"bottomRight":{"unit":"px","value":0.0}}" id="block-yui_3_17_2_1_1729816780201_50507"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;"><em>Save time and money with AI driven automation</em></h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1734800178209_19599"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1734800178209_19599"><div class="sqs-block-content"><div class="cta-wrapper">
+  <a href="https://www.metamation.net/pricing" class="cta-button">Book Consultation</a>
+</div>
+
+<style>
+  .cta-wrapper {
+    text-align: center;
+    margin: 30px 0;
+  }
+
+  .cta-button {
+    background-color: #08589A;  /* Medium Blue */
+    color: #FFFFFF;             
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  .cta-button:hover {
+    background-color: #17293E;  /* Dark Blue on hover */
+  }
+  .sqs-block .sqs-blockStatus,
+.sqs-block .removed-script {
+    display: none !important;
+}
+
+</style>
+
+<script>
+  document.querySelector('.cta-button').addEventListener('click', function() {
+    console.log('Button Clicked â Redirecting to Pricing Page');
+  });
+</script>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1729828144482_2589"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1729828144482_2589"><div class="sqs-block-content"><img class="hover-zoom" src="https://images.squarespace-cdn.com/content/6701d4a1f00a0b764778aa2b/4d2168e4-7146-4fb6-b525-f3d079f0f736/browser+mockup.png?content-type=image%2Fpng" alt="Automation Workflow Image">
+
+<style>
+    /* Apply hover effect only on screens wider than 768px */
+    @media (min-width: 768px) {
+        .hover-zoom {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            /* Add border-radius for smoother corners */
+        }
+
+        .hover-zoom:hover {
+            transform: scale(1.2); /* Adjust scale as needed */
+        }
+    }
+</style></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white'
+  
+  data-section-id="6728d0bbee1634193a72970b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+"imageOverlayOpacity": 0.15,
+"backgroundWidth": "background-width--full-bleed",
+"sectionHeight": "section-height--custom",
+"customSectionHeight": 1,
+"horizontalAlignment": "horizontal-alignment--center",
+"verticalAlignment": "vertical-alignment--middle",
+"contentWidth": "content-width--wide",
+"customContentWidth": 50,
+"backgroundColor": "",
+"sectionTheme": "white",
+"sectionAnimation": "none",
+"backgroundMode": "image"
+}"
+  data-current-context="{
+"video": {
+"playbackSpeed": 0.5,
+"filter": 1,
+"filterStrength": 0,
+"zoom": 0,
+"videoSourceProvider": "none"
+},
+"backgroundImageId": null,
+"backgroundMediaEffect": {
+"type": "none"
+},
+"divider": {
+"enabled": false
+},
+"typeName": "page"
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 1vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6728d0bb012fe33530ab500d {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(236,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 0.0px;
+  column-gap: 0.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6728d0bb012fe33530ab500d {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6728d0bb012fe33530ab500d {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(131,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1734853437764_4040 {
+    grid-area: 1/2/31/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1734853437764_4040 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1734853437764_4040 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1734853437764_4040 {
+      grid-area: 2/2/20/26;
+      z-index: 6;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1734853437764_4040 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1734853437764_4040 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1734924451518_23440 {
+    grid-area: 31/1/63/11;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1734924451518_23440 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1734924451518_23440 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1734924451518_23440 {
+      grid-area: 20/6/37/22;
+      z-index: 7;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1734924451518_23440 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1734924451518_23440 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731018778353_2681 {
+    grid-area: 65/1/129/11;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731018778353_2681 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1731018778353_2681 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1731018778353_2681 {
+      grid-area: 37/6/74/22;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1731018778353_2681 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1731018778353_2681 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1730725547765_13930 {
+    grid-area: 129/1/152/11;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1730725547765_13930 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1730725547765_13930 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1730725547765_13930 {
+      grid-area: 74/7/90/21;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1730725547765_13930 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1730725547765_13930 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731175113438_25960 {
+    grid-area: 191/1/235/11;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731175113438_25960 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1731175113438_25960 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1731175113438_25960 {
+      grid-area: 107/5/129/23;
+      z-index: 5;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1731175113438_25960 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1731175113438_25960 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731046659998_6485 {
+    grid-area: 155/2/192/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1731046659998_6485 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1731046659998_6485 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1731046659998_6485 {
+      grid-area: 92/7/107/21;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1731046659998_6485 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1731046659998_6485 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6728d0bb012fe33530ab500d"><div class="fe-block fe-block-yui_3_17_2_1_1734853437764_4040"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1734853437764_4040"><div class="sqs-block-content"><!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Who We Serve</title>
+  <style>
+    /* Main container styles */
+    .who-we-serve-section {
+      text-align: center;
+      padding: 60px 20px;
+      background-color: #F4F4F4;
+      font-family: 'Open Sans', sans-serif;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      max-width: 900px;
+      margin: 40px auto;
+    }
+    .who-we-serve-section h2 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      color: #17293E;
+    }
+    .who-we-serve-section p {
+      font-size: 1.1rem;
+      margin-bottom: 40px;
+      color: #333;
+    }
+
+    /* Accordion styles */
+    .accordion {
+      background-color: #ffffff;
+      color: #17293E;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      border: 1px solid #E2E2E3;
+      text-align: left;
+      outline: none;
+      font-size: 1.2rem;
+      transition: background-color 0.3s ease;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+    .accordion:hover {
+      background-color: #E2E2E3;
+    }
+    .accordion:after {
+      content: '\002B'; /* Plus sign */
+      font-size: 1.3rem;
+      float: right;
+    }
+    .accordion.active:after {
+      content: "\2212"; /* Minus sign */
+    }
+    .panel {
+      padding: 0 18px;
+      background-color: #ffffff;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease-out;
+      border-radius: 8px;
+    }
+    .panel ul {
+      list-style: none;
+      padding: 20px 0;
+      margin: 0;
+    }
+    .panel ul li {
+      padding: 8px 0;
+      font-size: 1rem;
+      color: #333;
+    }
+
+    /* Your new CTA styles (from your snippet) */
+    .cta-wrapper {
+      text-align: center;
+      margin: 30px 0; /* Adjust spacing above/below the button if you like */
+    }
+    .cta-button {
+      background-color: #08589A;  /* Medium Blue */
+      color: #FFFFFF;
+      font-size: 16px;
+      font-weight: 600;
+      padding: 14px 28px;
+      border: none;
+      border-radius: 5px;
+      text-transform: uppercase;
+      text-decoration: none;
+      display: inline-block;
+      transition: background-color 0.3s ease;
+      cursor: pointer;
+    }
+    .cta-button:hover {
+      background-color: #17293E;  /* Dark Blue on hover */
+    }
+
+    /* Hide any Squarespace block statuses (from your snippet) */
+    .sqs-block .sqs-blockStatus,
+    .sqs-block .removed-script {
+      display: none !important;
+    }
+
+    /* Mobile adjustments, if needed */
+    @media (max-width: 768px) {
+      .accordion {
+        font-size: 1rem;
+        padding: 15px;
+      }
+      .panel ul li {
+        font-size: 0.95rem;
+      }
+      .cta-button {
+        /* Optional smaller button on mobile (comment out if you don't want it) */
+        font-size: 14px;
+        padding: 10px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="who-we-serve-section">
+    <h2>Who We Serve</h2>
+    <p>At MetaMation, we help businesses unlock growth through automation. Explore the industries and challenges we specialize in.</p>
+    
+    <!-- Accordion 1 -->
+    <button class="accordion">Industries We Work With</button>
+    <div class="panel">
+      <ul>
+        <li>Sales Teams</li>
+        <li>Real Estate Agencies</li>
+        <li>Insurance Firms</li>
+        <li>Recruiting Agencies</li>
+        <li>Retail Businesses</li>
+        <li>Financial Institutions</li>
+      </ul>
+    </div>
+
+    <!-- Accordion 2 -->
+    <button class="accordion">Business Sizes</button>
+    <div class="panel">
+      <ul>
+        <li>Small to Mid-sized Businesses</li>
+        <li>Enterprises</li>
+        <li>Startups</li>
+      </ul>
+    </div>
+
+    <!-- Accordion 3 -->
+    <button class="accordion">Pain Points We Solve</button>
+    <div class="panel">
+      <ul>
+        <li>Manual data entry & processing</li>
+        <li>Inefficient lead management</li>
+        <li>Delayed follow-ups leading to lost revenue</li>
+        <li>Scattered data across multiple platforms</li>
+        <li>High operational costs due to manual workflows</li>
+        <li>Lack of system integration, causing workflow bottlenecks</li>
+        <li>Limited scalability in growing businesses</li>
+      </ul>
+    </div>
+
+    <!-- CTA Wrapper & Button -->
+    <div class="cta-wrapper">
+      <a href="https://www.metamation.net/pricing" class="cta-button">Book Consultation</a>
+    </div>
+  </div>
+
+  <script>
+    // Accordion JS
+    const accordions = document.querySelectorAll(".accordion");
+    accordions.forEach(acc => {
+      acc.addEventListener("click", function() {
+        this.classList.toggle("active");
+        const panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
+    });
+
+    // Button click event
+    document.querySelector('.cta-button').addEventListener('click', function() {
+      console.log('Button Clicked â Redirecting to Pricing Page');
+      // You could navigate or do anything else before redirecting.
+    });
+  </script>
+</body>
+</html>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1734924451518_23440"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1734924451518_23440"><div class="sqs-block-content"><section id="ai-automation">
+  <div class="text-container">
+    <h2>Why Automate?</h2>
+    <p>
+      <strong>AI-driven automation enhances traditional workflows</strong> by using 
+      artificial intelligence to <strong>process complex data, optimize tasks, 
+      and adapt in real time</strong>. Unlike rule-based automation, 
+      <strong>AI learns and evolves</strong>, making operations smarter and more 
+      responsive.
+    </p>
+    <p>Explore how AI-driven automation transforms operations below.</p>
+  </div> <!-- .text-container -->
+
+  <div class="accordion-container">
+    <!-- 1. How It Works -->
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('how-it-works')">
+        How It Works
+      </button>
+      <div class="accordion-content" id="how-it-works">
+        <ul>
+          <li>
+            <strong>Data Scrubbing</strong> â AI cleans and structures 
+            large datasets for accuracy.
+          </li>
+          <li>
+            <strong>Automated Messaging</strong> â AI generates and sends 
+            personalized emails, texts, and follow-ups.
+          </li>
+          <li>
+            <strong>CRM Updates</strong> â AI processes and updates CRM fields 
+            from incoming data or chatbot interactions.
+          </li>
+          <li>
+            <strong>Chatbot Integration</strong> â AI-powered chatbots trigger updates 
+            in CRM based on user responses.
+          </li>
+        </ul>
+      </div> <!-- #how-it-works -->
+    </div> <!-- .accordion-item -->
+
+    <!-- 2. Benefits -->
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('benefits')">
+        Benefits
+      </button>
+      <div class="accordion-content" id="benefits">
+        <ul>
+          <li>
+            <strong>Efficiency Boost</strong> â AI handles repetitive tasks, 
+            allowing staff to focus on critical work.
+          </li>
+          <li>
+            <strong>Improved Data Accuracy</strong> â AI reduces errors 
+            by automating data entry and cleansing.
+          </li>
+          <li>
+            <strong>Cost Efficiency</strong> â Streamlines operations without 
+            increasing headcount.
+          </li>
+          <li>
+            <strong>Scalable Workflows</strong> â AI adapts as your business grows, 
+            enhancing existing automation systems.
+          </li>
+        </ul>
+      </div> <!-- #benefits -->
+    </div> <!-- .accordion-item -->
+
+    <!-- 3. Real-World Example -->
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('example')">
+        Real-World Example
+      </button>
+      <div class="accordion-content" id="example">
+        <p>
+          A candidate engages with an automated workflow through a chatbot. Based on 
+          their responses, the AI updates CRM fields, triggering notifications to recruiters. 
+          Businesses that respond to leads within <strong>1 minute</strong> see a 
+          <strong>391% increase in conversions</strong>, ensuring faster engagement 
+          and improved outcomes.
+        </p>
+      </div> <!-- #example -->
+    </div> <!-- .accordion-item -->
+
+    <!-- 4. Why MetaMation? -->
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('why-metamation')">
+        Why MetaMation?
+      </button>
+      <div class="accordion-content" id="why-metamation">
+        <p>
+          MetaMation enhances traditional automation by integrating 
+          <strong>AI-powered workflows</strong> with tools like Salesforce, Bullhorn, 
+          and HubSpot. Our solutions automate lead management, data scrubbing, 
+          and candidate outreach, keeping your business efficient and competitive.
+        </p>
+        <a href="https://www.metamation.net/use-cases" class="cta-link">Explore Our Use Cases</a>
+      </div> <!-- #why-metamation -->
+    </div> <!-- .accordion-item -->
+
+    <!-- 5. Cost Savings with Automation -->
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('cost-savings')">
+        Cost Savings with Automation
+      </button>
+      <div class="accordion-content" id="cost-savings">
+        <p>
+          Our clients typically report savings of <strong>10% to 30%</strong> after 
+          implementing AI-driven automation. These savings come from:
+        </p>
+        <ul>
+          <li>
+            <strong>Reduced Hiring Needs</strong> â Automation handles repetitive tasks, 
+            reducing the need to hire additional staff.
+          </li>
+          <li>
+            <strong>Increased Efficiency</strong> â Workflows are optimized, 
+            saving hours of manual work and accelerating project timelines.
+          </li>
+          <li>
+            <strong>Lower Error Rates</strong> â Automated processes reduce human error, 
+            minimizing costly mistakes and rework.
+          </li>
+          <li>
+            <strong>Faster Lead Engagement</strong> â AI chatbots and automated 
+            workflows engage leads instantly, increasing conversions and 
+            streamlining sales processes.
+          </li>
+        </ul>
+      </div> <!-- #cost-savings -->
+    </div> <!-- .accordion-item -->
+
+  </div> <!-- .accordion-container -->
+</section> <!-- #ai-automation -->
+
+<style>
+  /* Container Setup */
+  #ai-automation {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  /* Text Elements */
+  h2 {
+    color: #17293E;
+    margin-bottom: 10px;
+  }
+  p {
+    color: #333;
+    line-height: 1.6;
+  }
+
+  /* Accordion Styles */
+  .accordion-container {
+    margin-top: 20px;
+  }
+  .accordion-item {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .accordion-button {
+    width: 100%;
+    text-align: left;
+    padding: 15px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 1rem;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease;
+    /* Ensure space for the pseudo-element icon */
+    position: relative;
+    padding-right: 40px;
+  }
+  .accordion-button:hover {
+    background-color: #e1e1e1;
+  }
+  
+  /* Add plus/minus sign using CSS pseudo-element */
+  .accordion-button::after {
+    content: '+';
+    position: absolute;
+    right: 20px;         /* Adjust spacing as needed */
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    transition: transform 0.3s ease;
+  }
+  
+  /* When accordion is active, show minus sign instead */
+  .accordion-item.active .accordion-button::after {
+    content: '-';
+  }
+
+  .accordion-content {
+    display: none;
+    padding: 20px;
+    background-color: #fff;
+    line-height: 1.8;
+    color: #333;  
+    text-align: left; /* Ensures left alignment for content */
+  }
+  .accordion-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  .accordion-content ul li {
+    color: #333;
+  }
+  .accordion-content p {
+    margin: 0;
+    color: #333;
+  }
+  .accordion-item.active .accordion-content {
+    display: block;
+  }
+
+  /* CTA Link */
+  .cta-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #08589a;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .cta-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<script>
+  function toggleAccordion(sectionId) {
+    const accordionItem = document.getElementById(sectionId).parentElement;
+    const allItems = document.querySelectorAll('.accordion-item');
+
+    // Close all other accordion items
+    allItems.forEach(item => {
+      if (item !== accordionItem) {
+        item.classList.remove('active');
+        item.querySelector('.accordion-content').style.display = 'none';
+      }
+    });
+
+    // Toggle the clicked item
+    const content = accordionItem.querySelector('.accordion-content');
+    const isOpen = accordionItem.classList.contains('active');
+
+    if (isOpen) {
+      content.style.display = 'none';
+      accordionItem.classList.remove('active');
+    } else {
+      content.style.display = 'block';
+      accordionItem.classList.add('active');
+    }
+  }
+</script>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1731018778353_2681"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1731018778353_2681"><div class="sqs-block-content"><div id="automation-intro">
+    <div class="icons-row">
+        <span class="emoji-icon hover-zoom">ð¤</span>
+        <span class="plus">+</span>
+        <span class="emoji-icon hover-zoom">ð§ </span>
+        <span class="plus">+</span>
+        <span class="emoji-icon hover-zoom">âï¸</span>
+    </div>
+    <h2>Leverage AI and Automation</h2>
+    <p>Enhance productivity and reduce manual tasks with AI-driven automation tailored to your business needs.</p>
+    
+    <!-- Tab Buttons -->
+    <div class="tabs">
+        <button class="tab-button active" data-tab="automation">Automation</button>
+        <button class="tab-button" data-tab="ai">AI</button>
+        <button class="tab-button" data-tab="integration">Integration</button>
+    </div>
+
+    <!-- Tab Content (Switches with Tabs) -->
+    <div id="tab-content">
+        <!-- Automation Tab -->
+        <div class="workflow active" id="automation">
+            <div class="description-container">
+                <h3>Example Workflow</h3>
+                <div class="blue-box">
+                    <div class="flowchart">
+                        <div class="flow-node start">10 AM - Start AI Dialer</div>
+                        <div class="flow-arrow"></div>
+                        <div class="flow-node hoverable">Import Leads from CRM</div>
+                        <div class="flow-arrow"></div>
+                        <div class="flow-node hoverable">Dial Numbers with AI</div>
+                        <div class="flow-arrow"></div>
+                        <div class="flow-node hoverable">Record Call and Transcribe</div>
+                        <div class="flow-arrow"></div>
+                        <div class="flow-node hoverable">Update CRM Notes with Call Summary</div>
+                        <div class="flow-arrow"></div>
+                        <div class="flow-node end">Follow Up Automation Triggered</div>
+                    </div>
+                    <p class="image-description">
+                        These customizable automations adapt based on lead responses. If there's no answer, follow-up texts and emails can be sent. If the lead is interested, the call can be transferred to a live agent.
+                    </p>
+                    <button class="cta-button" onclick="window.location.href='https://www.metamation.net/use-cases'">Explore Use Cases</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- AI Tab -->
+        <div class="workflow" id="ai">
+            <div class="description-container">
+                <h3>AI-driven Automation</h3>
+                <div class="blue-box">
+                    <p class="large-description">
+                        Supercharge your business with AI that adapts, learns, and improves over time.  
+                        From intelligent lead scoring to predictive analytics, AI takes the guesswork out of decision-making.  
+                        Our AI solutions automate repetitive tasks, analyze vast datasets in seconds, and provide insights  
+                        that drive smarter, faster growth. Empower your team to focus on high-impact activities  
+                        while AI handles the rest.
+                    </p>
+                    <button class="cta-button" onclick="window.location.href='https://www.metamation.net/use-cases'">
+                        Explore Use Cases
+                    </button>
+                </div>
+            </div>
+        </div> <!-- Closing AI Tab -->
+
+        <!-- Integration Tab -->
+        <div class="workflow" id="integration">
+            <div class="description-container">
+                <h3>Seamless Integration</h3>
+                <div class="blue-box">
+                    <p class="large-description">
+                        Connect every aspect of your business with seamless integrations.  
+                        Our automation links your CRM, communication tools, and project management platforms,  
+                        creating a streamlined ecosystem where data flows effortlessly.  
+                        Whether it's syncing customer interactions across platforms or automating lead handoffs,  
+                        our integration ensures nothing falls through the cracks.  
+                        Build a smarter, more connected operation that scales with your business.
+                    </p>
+                    <button class="cta-button" onclick="window.location.href='https://www.metamation.net/use-cases'">
+                        Explore Use Cases
+                    </button>
+                </div>
+            </div>
+        </div> <!-- Closing Integration Tab -->
+    </div> <!-- Closing Tab Content -->
+</div> <!-- Closing automation-intro -->
+
+<style>
+/* General Styling */
+#automation-intro {
+    text-align: center;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+}
+
+/* Icons Row Styling */
+.icons-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.emoji-icon {
+    font-size: 4rem;
+    cursor: pointer;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.emoji-icon:hover {
+    transform: scale(1.2);
+    color: #08589a;
+}
+
+.plus {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+/* Tabs Styling */
+.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.tab-button {
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #555;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    white-space: nowrap;
+}
+
+.tab-button.active {
+    background-color: #08589a;
+    color: #fff;
+    border-color: #08589a;
+}
+
+/* Button Styling */
+.cta-button {
+    margin-top: 20px;
+    padding: 15px 40px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #08589a;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #ffffff;
+    color: #08589a;
+    border-color: #08589a;
+}
+
+/* Workflow Content */
+.workflow {
+    display: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.workflow.active {
+    display: block;
+}
+
+/* Blue Box Styling */
+.blue-box {
+    background-color: #17293E;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 700px;
+    margin: 20px auto;
+    color: #fff;
+}
+
+/* Ensure all text inside the blue box is white */
+.blue-box p, 
+.blue-box h3, 
+.blue-box ul, 
+.blue-box li {
+    color: #ffffff;
+}
+
+/* Flowchart Styling */
+.flowchart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.flow-node {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    text-align: center;
+    width: 90%;
+    font-weight: 500;
+}
+
+.flow-node.start {
+    border: 3px solid #28a745;
+}
+
+.flow-node.end {
+    border: 3px solid #dc3545;
+}
+
+/* Arrows Between Steps */
+.flow-arrow {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin: 5px auto;
+}
+
+.flow-arrow:before,
+.flow-arrow:after {
+    position: absolute;
+    content: '';
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    top: 50%;
+    margin-top: -10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-radius: 0 0 3px 0;
+    transform: translate(-50%, -50%) rotate(45deg);
+    transition: all 0.3s ease;
+}
+
+/* Mobile Adjustments */
+@media only screen and (max-width: 600px) {
+  .cta-button {
+    display: block;          /* Block-level so it can center via margin auto */
+    margin: 20px auto 0;     /* Top: 20px, sides: auto (center), bottom: 0 */
+    width: auto;             /* Remove fit-content if it causes alignment issues */
+    font-size: 1rem;
+    padding: 10px 20x;
+  }
+
+    .blue-box {
+        padding: 20px;
+        max-width: 100%;
+    }
+
+    .flow-arrow {
+        width: 20px;
+        height: 20px;
+    }
+
+    .flow-arrow:before,
+    .flow-arrow:after {
+        width: 15px;
+        height: 15px;
+        margin-top: -7px;
+        border-width: 2px;
+    }
+}
+</style>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const tabButtons = document.querySelectorAll(".tab-button");
+    const workflows = document.querySelectorAll(".workflow");
+
+    // Tab functionality
+    tabButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+            tabButtons.forEach((btn) => btn.classList.remove("active"));
+            workflows.forEach((workflow) => workflow.classList.remove("active"));
+
+            button.classList.add("active");
+            const targetId = button.getAttribute("data-tab");
+            const targetWorkflow = document.getElementById(targetId);
+
+            // Show the clicked tab's content
+            if (targetWorkflow) {
+                targetWorkflow.classList.add("active");
+            }
+        });
+    });
+});
+
+</script></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1730725547765_13930"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1730725547765_13930"><div class="sqs-block-content"><!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3-Column Icons â Scaled on Mobile</title>
+  
+  <!-- Basic Reset -->
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: sans-serif;
+      padding: 1rem;
+      background: none; /* or your preferred background */
+    }
+  </style>
+
+  <!-- Font Awesome (remove if already included) -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    integrity="sha512-P4EiC7u3Z9gxxI9JqozF6Sf4gnbl1Zn7RQTi1D1CnQoN9doAlkVVDPH7B9v22wlXHEKWsdTxM6o1QK2VMTjQPw=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+
+  <style>
+    /****************************************
+     * Heading & Intro Text
+    *****************************************/
+    h2 {
+      text-align: center;
+      margin: 0.5rem 0;
+      font-size: 3rem;
+      color: #222;
+    }
+    .intro-text {
+      max-width: 600px;
+      margin: 0.5rem auto 2rem auto;
+      text-align: center;
+      font-size: 1.05rem;
+      line-height: 1.4;
+      color: #333;
+    }
+
+    /****************************************
+     * Scrolling Wrapper (no background/shadow)
+    *****************************************/
+    .scroll-wrapper {
+      width: 100%;
+      max-width: 800px;
+      height: 450px;      /* Adjust as needed */
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+      padding: 1rem;
+    }
+
+    /* Vertical scrolling (reset style) */
+    .scroll-content {
+      animation: scroll-up 12s linear infinite;
+    }
+    @keyframes scroll-up {
+      0%   { transform: translateY(0); }
+      100% { transform: translateY(-50%); }
+    }
+
+    /****************************************
+     * 3-Column Grid (always 3 columns)
+    *****************************************/
+    .three-col-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /****************************************
+     * Icon Card 
+     * - Blue BG
+     * - White Icon/Text
+     * - Shadow around card only
+    *****************************************/
+    .icon-card {
+      width: 130px; 
+      height: 130px;
+      background: #08589a;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.25);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      transition: transform 0.3s;
+    }
+    .icon-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .icon-card i {
+      font-size: 2rem;
+      color: #fff;
+    }
+    .icon-card p {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #fff;
+      text-align: center;
+    }
+
+    /****************************************
+     * Media Query: Shrink Cards on Mobile
+       so we can see 3 rows comfortably
+    *****************************************/
+    @media (max-width: 600px) {
+      /* Make icon cards smaller */
+      .icon-card {
+        width: 90px;     /* was 130px */
+        height: 90px;
+      }
+      .icon-card i {
+        font-size: 1.5rem; /* was 2rem */
+      }
+      .icon-card p {
+        font-size: 0.75rem; /* was 0.9rem */
+      }
+      /* Optionally reduce the wrapper height if needed */
+      .scroll-wrapper {
+        height: 350px;  /* was 450px */
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Platform Ecosystem</h2>
+  <p class="intro-text">
+    Integrate and automate your business apps and platforms to create 
+    seamless workflows, empowering your team to focus on revenue-generating tasks.
+  </p>
+
+  <div class="scroll-wrapper">
+    <div class="scroll-content">
+      <!-- FIRST set -->
+      <div class="three-col-grid">
+        <div class="icon-card">
+          <i class="fab fa-trello"></i>
+          <p>Trello</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-facebook"></i>
+          <p>Facebook</p>
+        </div>
+        <div class="icon-card">
+          <i class="fas fa-bullhorn"></i>
+          <p>Bullhorn</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fas fa-robot"></i>
+          <p>ChatGPT</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-mailchimp"></i>
+          <p>Mailchimp</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-aws"></i>
+          <p>AWS</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fab fa-salesforce"></i>
+          <p>Salesforce</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-google-drive"></i>
+          <p>Google Drive</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-dropbox"></i>
+          <p>Dropbox</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fab fa-slack"></i>
+          <p>Slack</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-hubspot"></i>
+          <p>HubSpot</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-linkedin"></i>
+          <p>LinkedIn</p>
+        </div>
+      </div>
+
+      <!-- SECOND set (duplicate) -->
+      <div class="three-col-grid">
+        <div class="icon-card">
+          <i class="fab fa-trello"></i>
+          <p>Trello</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-facebook"></i>
+          <p>Facebook</p>
+        </div>
+        <div class="icon-card">
+          <i class="fas fa-bullhorn"></i>
+          <p>Bullhorn</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fas fa-robot"></i>
+          <p>ChatGPT</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-mailchimp"></i>
+          <p>Mailchimp</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-aws"></i>
+          <p>AWS</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fab fa-salesforce"></i>
+          <p>Salesforce</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-google-drive"></i>
+          <p>Google Drive</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-dropbox"></i>
+          <p>Dropbox</p>
+        </div>
+
+        <div class="icon-card">
+          <i class="fab fa-slack"></i>
+          <p>Slack</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-hubspot"></i>
+          <p>HubSpot</p>
+        </div>
+        <div class="icon-card">
+          <i class="fab fa-linkedin"></i>
+          <p>LinkedIn</p>
+        </div>
+      </div>
+    </div><!-- .scroll-content -->
+  </div><!-- .scroll-wrapper -->
+
+</body>
+</html>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1731175113438_25960"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1731175113438_25960"><div class="sqs-block-content"><section id="review-section">
+    <h2>What Our Clients Say</h2>
+    <div id="reviews-container">
+        <div class="review">
+            <p>âMetamation has helped us immensely! His consultative approach and tech audits helped us identify pain points and inefficiencies in our daily tasks and processes. Each Agent has cut down about 2 hours daily of administrative tasks.â</p>
+            <span class="author">â Bryan T.</span> <span class="industry">| Real Estate Agency</span>
+        </div>
+        <div class="review">
+            <p>âMetamation's automations have been a game changer for our recruiting process. He streamlined candidate tracking/follow-up, cleaned up our job orders, and helped us focus on engaging with higher quality candidates. Our teamâs productivity has skyrocketed!â</p>
+            <span class="author">â Samantha R.</span> <span class="industry">| Staffing Firm</span>
+        </div>
+        <div class="review">
+            <p>âWe approached Metamation to optimize our processes and workflows, and the results have been incredible. His solutions have saved us countless hours each week, allowing our team to concentrate on sales growth instead of admin tasks. We highly recommend him!â</p>
+            <span class="author">â John S.</span> <span class="industry">| General Sales</span>
+        </div>
+        <div class="review hidden">
+            <p>âWorking with Metamation has been a fantastic experience. His tech strategies and sales experience have simplified and improved our processes, cut costs, and eliminated redundant steps in our operations.â</p>
+            <span class="author">â Michael B.</span> <span class="industry">| Insurance Agency</span>
+        </div>
+        <div class="review hidden">
+            <p>"Metamation has saved us nearly $100,000 this year. His expertise helped us avoid overpriced enterprise solutions, and the automations he implemented were both cost-effective and highly efficient, delivering the same results at a fraction of the cost."</p>
+            <span class="author">â Steve K.</span> <span class="industry">| Retail Store</span>
+        </div>
+        <div class="review hidden">
+            <p>"We are very happy with the results our automations and new workflows have produced! We were also able to cut down on hiring needs and focus more on production-based activities."</p>
+            <span class="author">â Steve K.</span> <span class="industry">| Health & Fitness Center</span>
+        </div>
+    </div>
+    <button id="load-more-btn">See More</button>
+</section>
+
+<style>
+    /* Review Section Styles */
+    #review-section {
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 20px;
+        text-align: center;
+    }
+
+    #review-section h2 {
+        font-size: 3rem;
+        margin-bottom: 30px;
+        color: #17293E;
+    }
+
+    /* Grid Layout for Reviews */
+    #reviews-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 columns layout by default */
+        gap: 20px;
+    }
+
+/* Individual Review Card */
+.review {
+    background: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.review:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+    /* Text Content in Reviews */
+    .review p {
+        font-size: 1rem;
+        line-height: 1.6;
+        color: #333333;
+    }
+
+    /* Text Content in Reviews */
+.author, .industry {
+    display: inline-block; /* Place them on the same line */
+    font-size: 0.9rem; /* Consistent font size across devices */
+    font-style: italic;
+}
+
+.author {
+    margin-right: 5px; /* Add spacing between name and industry */
+    font-weight: bold;
+}
+
+.industry {
+    color: #555555;
+    font-weight: normal;
+}
+
+    /* Hidden Reviews */
+    .hidden {
+        display: none;
+    }
+
+    /* Button Styles */
+    #load-more-btn {
+        margin-top: 20px;
+        padding: 10px 20px;
+        font-size: 1rem;
+        color: #FFFFFF;
+        background-color: #17293E;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    #load-more-btn:hover {
+        background-color: #0d1c2b;
+        transform: translateY(-2px);
+    }
+
+    /* Hidden Reviews */
+.hidden {
+    display: none;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 769px) {
+    /* On desktop (above 768px), show all reviews */
+    .review.hidden {
+        display: block;
+    }
+
+    #load-more-btn {
+        display: none; /* Hide the button on desktop since all reviews are visible */
+    }
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+    #reviews-container {
+        grid-template-columns: 1fr; /* Stack reviews in a single column */
+        gap: 15px; /* Adjust spacing between stacked reviews */
+        justify-items: center; /* Center the stacked reviews horizontally */
+    }
+
+    .review {
+        width: 90%; /* Center the review cards and limit their width */
+        padding: 15px; /* Adjust padding for mobile */
+    }
+
+    .review p {
+        font-size: 0.9rem; /* Adjust font size for readability on mobile */
+    }
+
+     .author, .industry {
+        display: inline-block; /* Place them on the same line */
+        font-size: 0.8rem;
+    }
+
+    .author {
+        margin-right: 5px; /* Add some space between name and industry */
+        font-weight: bold;
+    }
+
+    .industry {
+        color: #555555;
+        font-weight: normal;
+    }
+     #review-section h2 {
+        font-size: 2.5rem;
+    }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const loadMoreButton = document.getElementById("load-more-btn");
+    const hiddenReviews = document.querySelectorAll(".review.hidden");
+
+    loadMoreButton.addEventListener("click", function () {
+        hiddenReviews.forEach((review) => {
+            review.classList.remove("hidden"); // Reveal hidden reviews
+        });
+        loadMoreButton.style.display = "none"; // Hide the button after revealing all reviews
+    });
+});
+</script>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1731046659998_6485"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1731046659998_6485"><div class="sqs-block-content"><!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Efficiency Calculator</title>
+    <style>
+        /* Efficiency Calculator Styling */
+
+        #efficiency-calculator {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 2.5rem;
+            text-align: center;
+            border: 1px solid #E2E2E3;
+            border-radius: 12px;
+            background-color: #FFFFFF; 
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        #efficiency-calculator h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #08589A;
+            margin-bottom: 1.5rem;
+        }
+
+        .inputs-section {
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            flex: 1;
+        }
+
+        .input-group label {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #17293E;
+            margin-bottom: 0.5rem;
+        }
+
+        .input-group input {
+            width: 85%;
+            padding: 0.7rem;
+            font-size: 1rem;
+            text-align: center;
+            background-color: #F4F7FA;
+            border: 1px solid #BCC1C6;
+            border-radius: 8px;
+        }
+
+        .input-group .unit {
+            font-size: 0.85rem;
+            color: #6c757d;
+            margin-top: 0.3rem;
+        }
+
+        .divider {
+            border-top: 1px solid #E2E2E3;
+            margin: 2rem 0;
+        }
+
+        .output-section {
+            margin-top: 2rem;
+        }
+
+        .efficiency-amount {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #28A745;
+        }
+
+        .output-section p {
+            font-size: 1.1rem;
+            color: #17293E;
+            margin-top: 0.8rem;
+        }
+
+        .cta-section {
+            margin-top: 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 0.9rem 2rem;
+            font-size: 1rem;
+            color: #FFFFFF;
+            background-color: #08589A;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .cta-button:hover {
+            background-color: #17293E;
+        }
+
+        /* Responsive layout adjustments */
+        @media (max-width: 768px) {
+            .inputs-section {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+
+            .input-group input {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="efficiency-calculator">
+        <h2>Boost Your Efficiency ð¼</h2>
+        <div class="inputs-section">
+            <div class="input-group">
+                <label for="workers">Number of Workers</label>
+                <input type="number" id="workers" value="10">
+                <span class="unit">Employees Performing Task</span>
+            </div>
+            <div class="input-group">
+                <label for="salary">Annual Salary Per Worker</label>
+                <input type="number" id="salary" value="50000">
+                <span class="unit">Salary in $</span>
+            </div>
+            <div class="input-group">
+                <label for="time-savings">Time Savings</label>
+                <input type="number" id="time-savings" value="120">
+                <span class="unit">Minutes per Day</span>
+            </div>
+        </div>
+        <div class="divider"></div>
+        <div class="output-section">
+            <span id="efficiency-gains" class="efficiency-amount">$125,000</span>
+            <p>Annual savings based on <span id="working-days">250</span> working days.</p>
+        </div>
+
+        <div class="cta-section">
+            <a href="https://www.metamation.net/pricing" class="cta-button">explore packages</a>
+        </div>
+    </div>
+
+<script>
+   const workersInput = document.getElementById("workers");
+const salaryInput = document.getElementById("salary");
+const timeSavingsInput = document.getElementById("time-savings");
+const efficiencyGainsOutput = document.getElementById("efficiency-gains");
+const workingDaysOutput = document.getElementById("working-days");
+
+function calculateEfficiencyGains() {
+    const numWorkers = parseInt(workersInput.value) || 0;
+    const annualSalary = parseFloat(salaryInput.value) || 0;
+    const timeSavings = parseFloat(timeSavingsInput.value) || 0;
+
+    const workingDaysPerYear = 250;
+    const workingHoursPerDay = 8;
+    const minutesPerHour = 60;
+
+    const totalWorkingHoursPerYear = workingDaysPerYear * workingHoursPerDay;
+    const hourlyRatePerWorker = annualSalary / totalWorkingHoursPerYear;
+
+    const timeSavedInHoursPerDay = timeSavings / minutesPerHour;
+    const timeSavedPerYearPerWorker = timeSavedInHoursPerDay * workingDaysPerYear;
+
+    const savingsPerWorkerPerYear = hourlyRatePerWorker * timeSavedPerYearPerWorker;
+
+    const totalGains = savingsPerWorkerPerYear * numWorkers;
+
+    efficiencyGainsOutput.textContent = `$${totalGains.toLocaleString()}`;
+}
+
+workersInput.addEventListener("input", calculateEfficiencyGains);
+salaryInput.addEventListener("input", calculateEfficiencyGains);
+timeSavingsInput.addEventListener("input", calculateEfficiencyGains);
+
+calculateEfficiencyGains();
+</script>
+</body>
+</html>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+            
+          
+        
+      </main>
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.3f54e02ecf800724a9e3b135d2a95191.js" type="text/javascript"></script>
+    <div class="custom-footer">
+    <img src="https://images.squarespace-cdn.com/content/6701d4a1f00a0b764778aa2b/ac130c01-5f83-4ee9-8c84-5d55ab958cd3/white+trans.png?content-type=image%2Fpng" class="footer-logo" alt="MetaMation Logo">
+    <p class="footer-description">Empowering businesses with AI-driven automation.</p>
+    <div class="footer-links">
+        <a href="https://www.metamation.net/about-us">About Us</a>
+        <a href="https://www.metamation.net/services">Services</a>
+        <a href="https://www.metamation.net/contact-us">Contact</a>
+    </div>
+    <p class="footer-contact">Tampa, FL | <a href="mailto:alex@metamation.com">info@metamation.com</a></p>
+    <p class="footer-bottom">© 2024 MetaMation. All rights reserved.</p>
+</div>
+
+    <style>
+    body {
+        margin: 0; /* Remove any default margin from the body */
+        padding: 0; /* Remove any default padding from the body */
+    }
+
+    .custom-footer {
+        background-color: #17293E;
+        color: #ffffff;
+        text-align: center;
+        padding: 20px 0;
+        margin-top: 0; /* Remove any extra margin above the footer */
+        font-family: Arial, sans-serif;
+    }
+
+    .footer-logo {
+        width: 100px;
+        height: auto;
+        margin: 0 auto 10px;
+        display: block;
+    }
+
+    .footer-links {
+        margin: 15px 0;
+    }
+
+    .footer-links a {
+        color: #ffffff;
+        text-decoration: underline;
+        margin: 0 10px;
+        font-size: 1rem;
+    }
+
+    .footer-links a:hover {
+        color: #c0c0c0;
+        text-decoration: none;
+    }
+      .custom-footer p, 
+.custom-footer a {
+    color: #ffffff;  /* Ensures all text in the footer remains white */
+}
+</style><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+
+  </body>
+</html>
